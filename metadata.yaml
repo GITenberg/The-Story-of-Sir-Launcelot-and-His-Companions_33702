@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
 description: Follows Sir Launcelot of the Round Table as he rescues Queen Guinevere,
   fights in the tournament at Astolat and pursues other adventures.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33702#The-Story-of-Sir-Launcelot-and-His-Companions
 gutenberg_issued: '2010-09-10'
 gutenberg_type: Text
 identifiers:
