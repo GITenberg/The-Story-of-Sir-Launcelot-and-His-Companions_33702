@@ -1,0 +1,33 @@
+_repo: The-Story-of-Sir-Launcelot-and-His-Companions_33702
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pyle, Howard
+    birthdate: 1853
+    deathdate: 1911
+    gutenberg_agent_id: '491'
+    url: http://www.gutenberg.org/2009/agents/491
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+description: Follows Sir Launcelot of the Round Table as he rescues Queen Guinevere,
+  fights in the tournament at Astolat and pursues other adventures.
+gutenberg_issued: '2010-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33702'
+  lccn: '90022326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Arthurian romances -- Adaptations'
+- !lcsh 'Folklore -- England'
+- !lcsh 'Knights and knighthood -- Folklore'
+- !lcsh 'Arthur, King -- Legends'
+- !lcsh 'Lancelot (Legendary character) -- Legends'
+title: The Story of Sir Launcelot and His Companions
+url: http://www.gutenberg.org/ebooks/33702
